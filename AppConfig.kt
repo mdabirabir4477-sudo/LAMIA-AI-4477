@@ -1,0 +1,1 @@
+package com.lamia.ai\n\nobject AppConfig { const val BACKEND_URL = "https://YOUR_BACKEND_DOMAIN.example/api/chat" }\n
